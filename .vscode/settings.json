@@ -1,0 +1,15 @@
+{
+  "liveServer.settings.port": 5501,
+  "window.zoomLevel": 1,
+  "editor.fontSize": 14,
+  "workbench.colorTheme": "Night Owl",
+  "editor.linkedEditing": true,
+  "editor.formatOnSave": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "html"
+  }
+}
