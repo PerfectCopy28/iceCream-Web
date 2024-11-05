@@ -22,7 +22,8 @@ module.exports = {
       },
       fontFamily: {
         Poppins: ["Poppins", "cursive"],
-        Kalnia: ["Kaushan", "serif"],
+        Playball: ["Playball", "serif"],
+        Kalnia: ["Kalnia", "serif"],
       }
     },
   },
